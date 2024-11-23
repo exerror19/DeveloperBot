@@ -1,2 +1,0 @@
-# DeveloperBot
-DeveloperBot
